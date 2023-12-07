@@ -69,12 +69,7 @@
             <version>0.4.8</version>
         </dependency>
 
-        <!--hutool工具类-->
-        <dependency>
-            <groupId>com.common</groupId>
-            <artifactId>common-utils</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
+
 
     </dependencies>
 
