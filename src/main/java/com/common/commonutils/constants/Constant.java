@@ -10,7 +10,7 @@ public class Constant {
 
     public static final int BYTE_BUFFER = 1024;
     public static final int BUFFER_MULTIPLE = 10;
-    //密码设置
+    //密码设置的方法
     public static final String PASSWORD = "123456";
 
     //存储用户登录前的位置
